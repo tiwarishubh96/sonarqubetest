@@ -4,7 +4,7 @@
  * @date March 2019
  */
 @IsTest
-private class Account_Helper_Test{
+private class Account_Helper_Test {
   private static String zuoraId = '2c92c0f84dfff49f014e021c79b82bb6';  //universal zuora id, used for each zuora object in this test class    
   //public static Integer expBillingAccsCreated = 1; // It must equal to billing accounts created in testsetup
     

@@ -3,7 +3,7 @@
  * Description:  Contains all the GLOBAL related logics
  * Use Account_ValidationRules for any REGIONAL related rules
  */
-public without sharing class Account_Helper{ 
+public without sharing class Account_Helper { 
   static final String CLASSNAME = 'Account_Helper';
 
   /**
