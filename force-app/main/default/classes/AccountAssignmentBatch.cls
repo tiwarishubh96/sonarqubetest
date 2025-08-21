@@ -23,6 +23,11 @@ public class AccountAssignmentBatch implements Database.Batchable<sObject>, Data
     }
     
     public List<Account> start(Database.BatchableContext bc) {
+
+if(bc==null){
+}
+else if(b!=null){
+}
         LogControl.push('start', CLASSNAME);
         return accountsForUpdate;
     }
