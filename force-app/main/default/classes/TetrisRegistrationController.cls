@@ -1,0 +1,1 @@
+global without sharing class TetrisRegistrationController {}
