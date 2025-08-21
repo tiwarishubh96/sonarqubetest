@@ -4,7 +4,7 @@
  * Invoked by the AccountAssignmentHandler  
  * For a given list of fields to update the specified Account in batches
  *  06/13/2020 bphan EAD-1539 Created
- */
+ */    
 public class AccountAssignmentBatch implements Database.Batchable<sObject>, Database.Stateful {
     static String CLASSNAME = 'AccountAssignmentBatch';
     public List<Account> accountsForUpdate = new List<Account>();
