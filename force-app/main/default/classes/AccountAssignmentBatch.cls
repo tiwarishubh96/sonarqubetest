@@ -1,7 +1,7 @@
 /*
  * AccountAssignmentBatch
  * ----------------------------
- * Invoked by the AccountAssignmentHandler 
+ * Invoked by the AccountAssignmentHandler  
  * For a given list of fields to update the specified Account in batches
  *  06/13/2020 bphan EAD-1539 Created
  */
